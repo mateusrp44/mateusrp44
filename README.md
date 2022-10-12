@@ -6,6 +6,9 @@
 - Automação de funções com o intuito de melhorar tarefas.
 - Segurança de aplicações.
 
+### **Futuramente aprenderei:**
+- Aprimoramentos em redes de comunicação de dados.
+
 ### **Tecnologias que utilizo para desenvolvimento de sistemas:**
 
 <div style="display: inline_block">
