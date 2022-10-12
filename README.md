@@ -31,7 +31,7 @@
   <img align="center" alt="c" src="https://img.shields.io/badge/C-blue?style=for-the-badge" />
   <img align="center" alt="c++" src="https://img.shields.io/badge/C++-blue?style=for-the-badge" />
   <img align="center" alt="go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img align="center" alt="selenium" src="https://img.shields.io/badge/SELENIUM-lightgrey?style=for-the-badge" />
+  <img align="center" alt="selenium" src="https://img.shields.io/badge/SELENIUM-lightgrey?style=for-the-badge?labelColor=success" />
   <img align="center" alt="grunt" src="https://img.shields.io/badge/GRUNT-orange?style=for-the-badge" />
   <img align="center" alt="gulp" src="https://img.shields.io/badge/GULP-red?style=for-the-badge" />
   <img align="center" alt="cordova" src="https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8" />
