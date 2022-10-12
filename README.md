@@ -1,4 +1,12 @@
-## Tecnologias que utilizo para desenvolvimento de sistemas:
+### **Atualmente trabalhando em:**
+- Desenvolvimento, testes, ajustes e correções de funcionalidades.
+
+### **Atualmente aprendendo:**
+- Inserção, extração e análise de cálculos, dados e informações.
+- Automação de funções com o intuito de melhorar tarefas.
+- Segurança de aplicações.
+
+### **Tecnologias que utilizo para desenvolvimento de sistemas:**
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -41,7 +49,7 @@
 </div>
 <br/>
 
-## Tecnologias que utilizo para desenho de interface:
+### **Tecnologias que utilizo para desenho de interface:**
 
 <div style="display: inline_block">
   <img align="center" alt="xd" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
@@ -52,7 +60,7 @@
 <br/>
 
 
-## Sistemas operacionais que utilizo:
+### **Sistemas operacionais que utilizo:**
 
 <div style="display: inline_block">
   <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
@@ -63,4 +71,5 @@
 
 <br/>
 
+### **Estatísticas:**
 ![Mateus Rocha Pinto's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusrp44&show_icons=true&theme=tokyonight&count_private=true)
