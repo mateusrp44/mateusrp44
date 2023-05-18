@@ -1,14 +1,3 @@
-### **Atualmente trabalhando em:**
-- Desenvolvimento, testes, ajustes e correções de funcionalidades.
-
-### **Atualmente aprendendo:**
-- Inserção, extração e análise de cálculos, dados e informações.
-- Automação de funções com o intuito de melhorar tarefas.
-- Segurança de aplicações.
-
-### **Futuramente aprenderei:**
-- Aprimoramentos em redes de comunicação de dados.
-
 ### **Tecnologias que utilizo para desenvolvimento de sistemas:**
 
 <div style="display: inline_block">
